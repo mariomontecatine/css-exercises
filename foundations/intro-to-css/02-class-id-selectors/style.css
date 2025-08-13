@@ -1,0 +1,25 @@
+.first {
+  background-color: rosybrown;
+}
+
+#second {
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.cooler {
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: aqua;
+}
+
+#third {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: coral;
+}
+
+.fourth {
+  font-family: cursive;
+  background-color: beige;
+}
